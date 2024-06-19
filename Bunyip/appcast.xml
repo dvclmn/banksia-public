@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Banksia</title>
+        <item>
+            <title>0.3.8</title>
+            <pubDate>Wed, 19 Jun 2024 11:31:47 +0200</pubDate>
+            <sparkle:version>7507</sparkle:version>
+            <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://dvclmn.github.io/banksia-releases/Banksia-v0.3.8.zip" length="32451827" type="application/octet-stream" sparkle:edSignature="x/4NEO5jygzcGTDOE/Of50k1h2whwjBP+7mori+LUgXg9QKQHdDjaZiI8fd1pOe/OrCsgA6RoKXWFwWp9i+iBA=="/>
+        </item>
+    </channel>
+</rss>
