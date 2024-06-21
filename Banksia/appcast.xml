@@ -3,12 +3,12 @@
     <channel>
         <title>Banksia</title>
         <item>
-            <title>0.3.11</title>
-            <pubDate>Thu, 20 Jun 2024 20:41:22 +0200</pubDate>
-            <sparkle:version>7826</sparkle:version>
-            <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
+            <title>0.3.12</title>
+            <pubDate>Fri, 21 Jun 2024 10:03:33 +0200</pubDate>
+            <sparkle:version>7848</sparkle:version>
+            <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/releases/Banksia-v0.3.11.zip" length="32404678" type="application/octet-stream" sparkle:edSignature="usk8GT2aA4pRvfOFk3nPHHheMKDiWgnJ3Ayn3fjiCxCCFK9eAmZpgrstKej1EZ7wDOxYFKB95d1hlWnwjZDcDw=="/>
+            <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/releases/Banksia-v0.3.12.zip" length="32475403" type="application/octet-stream" sparkle:edSignature="DnHu1MFk0TJCV1fRnHTvNO6cqgX9FVL98ExXDm9UPbOLkFrKG9kNdIkONhjndjaS9w/+64u8rlswyfd48JsmAg=="/>
         </item>
     </channel>
 </rss>
