@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Banksia</title>
+        <item>
+            <title>0.3.19</title>
+            <pubDate>Wed, 02 Oct 2024 10:27:09 +0200</pubDate>
+            <sparkle:version>8528</sparkle:version>
+            <sparkle:shortVersionString>0.3.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14</sparkle:minimumSystemVersion>
+            <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia-v0.3.19.zip" length="19926183" type="application/octet-stream" sparkle:edSignature="eofTBN4nyqpcepTQcHqnFq/uNpVBSuDgGtAKAG1rCotyGbNScll32He4Q90yj+UJzUIjyuAAk8mVTO885G02Cg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia8528-8476.delta" sparkle:deltaFrom="8476" length="4105194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="UY+ndoAHvrcIdn+bnKhKvZjNFKfLz1lxKcwlGkgV1Rt6olc6cnBe+8P7NPq/cCNPY9R2vZLEmhnY/sPna86XCQ=="/>
+                <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia8528-7970.delta" sparkle:deltaFrom="7970" length="4254550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="QZVtNQ+gmx389Wj3jrQiXWwP9wRcVa9wL9knX8joqDmgFYLvX2UMf5kFfif+EJxubmIEc7LM8MpLHFBCNv0SBg=="/>
+                <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia8528-7848.delta" sparkle:deltaFrom="7848" length="4243842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="gacrS3I0cRzbbvdB4j4bjv9QYTe4eDKYhkVWlIsertTNy87wOGAFL2PhkjusMwrYGpsO1d/K40LQk0mYPm63Dg=="/>
+                <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia8528-7826.delta" sparkle:deltaFrom="7826" length="4251302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="H4+XzV+jl1ml52JBOrYS5XISU5S34khJGiFkH3sjLfmbv1wE5unQGx2iV/++Tx1e4dm6QWAN3uAWlKJyOHGMDg=="/>
+                <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia8528-7695.delta" sparkle:deltaFrom="7695" length="4248402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="H2D+kp4EA1ZPADgGxx374USCXkkMOcVaPHXVN0f5DALfL5ynUeDilXkrBWW1o02caTsKizVWf3JD+p4VZz/XDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.3.18</title>
+            <pubDate>Thu, 04 Jul 2024 12:17:16 +0200</pubDate>
+            <sparkle:version>8476</sparkle:version>
+            <sparkle:shortVersionString>0.3.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia-v0.3.18.zip" length="33786740" type="application/octet-stream" sparkle:edSignature="ij+amPP866hldrfuV/zzDjXChAPbH5TaWVDatuRKt6bVmBdMMIQ1Ixbw8kSWka8GxL+oMHBiHSaw9KM/ajuIBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia8476-7970.delta" sparkle:deltaFrom="7970" length="1844070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="jPVPRQ63V0Rz4QuL6DPoIGLE/yAMELnm+pCydWgM/4TCdDixLGnSK3Yyd58uWE399A0fh/6asG/yCJXlCvZfAA=="/>
+                <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia8476-7848.delta" sparkle:deltaFrom="7848" length="1883858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9VQVZi6eMsNTVk6/asktKQz2f6AByF1+ZCwyh54SkC9nLqqsFhWqIsM//a9CCMMqtcIN7zrsGl3bGaywD10/CA=="/>
+                <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia8476-7826.delta" sparkle:deltaFrom="7826" length="2071654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="cxIwKNUfShENpT3H4C2hXrgLG5h29PfnOz4VJE0X/6b2/VAvc93Yvgp5zwr6C5QnbpYIi7IMm0ffF0WX4M3HBg=="/>
+                <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia8476-7695.delta" sparkle:deltaFrom="7695" length="2076206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="pbI/zRt4HqYxrhkER71ENW2J/vSNRSNwDGA2aVLg2bC6DiYBzKAeuf509bQXWYI8t1hFUre5mTlGD1wQMacsCQ=="/>
+                <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia8476-7535.delta" sparkle:deltaFrom="7535" length="2089158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="38KmIOYa5YHP4pB3pSYfhZQmXdcH0g4kZyHHXdHE+halwDT47bxQarjBAS+k3Z0pv3lvprhXkPVIzq9+Ryl0BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.3.13</title>
+            <pubDate>Sun, 23 Jun 2024 17:53:19 +0200</pubDate>
+            <sparkle:version>7970</sparkle:version>
+            <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia-v0.3.13.zip" length="32567653" type="application/octet-stream" sparkle:edSignature="ryMABxg7AMy0tQ+EUAYCmNrn4S6T8FwUDzWuTjgJvKs2wwZE+8eS1f/sZoGTHnvAUajzQp2SwEGVJHMpJVrECQ=="/>
+        </item>
+        <item>
+            <title>0.3.12</title>
+            <pubDate>Fri, 21 Jun 2024 10:03:33 +0200</pubDate>
+            <sparkle:version>7848</sparkle:version>
+            <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://dvclmn.github.io/natives-releases/Banksia/Banksia-v0.3.12.zip" length="32475403" type="application/octet-stream" sparkle:edSignature="DnHu1MFk0TJCV1fRnHTvNO6cqgX9FVL98ExXDm9UPbOLkFrKG9kNdIkONhjndjaS9w/+64u8rlswyfd48JsmAg=="/>
+        </item>
+    </channel>
+</rss>
